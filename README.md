@@ -22,7 +22,7 @@ My long-term goal is remote cybersecurity work — specifically SOC analyst and 
 
 - Google IT Support Professional Certificate ✅
 - CompTIA Tech+ — in progress
-- CompTIA A+ — upcoming
+- CompTIA A+ Cyber — in progress (started May 5th, 2026)
 - CompTIA Network+ — upcoming
 - CompTIA Security+ — target
 - Local IT training program — graduate, summer 2025
@@ -207,7 +207,7 @@ Custom bash script at `/usr/local/bin/arch-maintenance` covering full monthly sy
 ## Currently Learning
 
 - CompTIA Tech+ (exam May 16th, 2026)
-- CompTIA A+ (classes starting May 5th, 2026)
+- CompTIA A+ Cyber (classes started May 5th, 2026)
 - Malware analysis and sandbox techniques
 
 ---
